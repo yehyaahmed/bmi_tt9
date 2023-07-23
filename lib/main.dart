@@ -44,7 +44,7 @@ class _InputPageState extends State<InputPage> {
                       borderRadius: BorderRadius.circular(15),
                       color: Colors.grey,
                     ),
-                    child: const Column(
+                    child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Icon(
@@ -67,7 +67,7 @@ class _InputPageState extends State<InputPage> {
                       borderRadius: BorderRadius.circular(15),
                       color: Colors.grey,
                     ),
-                    child: const Column(
+                    child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Icon(
